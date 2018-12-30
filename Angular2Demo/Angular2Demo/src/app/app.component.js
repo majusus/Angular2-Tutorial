@@ -10,11 +10,19 @@ var core_1 = require("@angular/core");
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
         this.pageHeader = 'Employee Details';
+        this.imagePath = 'http://pragimtech.com/images/logo.jpg'; //interpolation example:1
+        this.imagePath2 = 'images/logo.jpg'; //interpolation example:2
+        this.firstName = 'Susham';
+        this.lastName = 'Majumder';
+        this.isDisabled = true; // property binding example 2 non-string values
     }
+    AppComponent.prototype.getFullName = function () {
+        return this.firstName + ' ' + this.lastName;
+    };
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            templateUrl: 'app/app.component.html',
+            templateUrl: 'app/app.component.html?v=${new Date().getTime()}',
         })
     ], AppComponent);
     return AppComponent;

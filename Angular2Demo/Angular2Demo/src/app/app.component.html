@@ -2,5 +2,10 @@
     <h1>
         {{pageHeader}}
     </h1>
+    <img src="{{imagePath}}"/>   <!--interpolation example:1--> 
+    <img src="http://pragimtech.com/{{imagePath2}}" />   <!--interpolation example:2-->
+    <img [src] ='imagePath'/>   <!--property binding example 1-->    
+    <h2>{{getFullName()}}</h2>
     <my-employee></my-employee>
+    <button disabled = 'isDisabled'>Click ME !!</button> <!--property binding example 2 non-string values-->
 </div>

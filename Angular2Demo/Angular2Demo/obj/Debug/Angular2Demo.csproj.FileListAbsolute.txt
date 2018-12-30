@@ -30,3 +30,35 @@ E:\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.ApplicationInsights
 E:\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\Angular2-Tutorial\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.dll
 E:\Angular2-Tutorial\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.pdb
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\csc.exe
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\vbc.exe
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\VBCSCompiler.exe
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll.config
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Angular2Demo.pdb
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.DependencyCollector.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.Web.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.WindowsServer.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.ApplicationInsights.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.DependencyCollector.xml
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.Web.xml
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.AI.WindowsServer.xml
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.ApplicationInsights.xml
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.csprojResolveAssemblyReference.cache
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.dll
+E:\New folder\Angular2-Tutorial\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.pdb
